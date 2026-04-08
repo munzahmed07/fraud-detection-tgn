@@ -1,0 +1,122 @@
+[
+  {
+    "account_id": "C1041279319",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C1041279319 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C1047232372",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C1047232372 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C11637646",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C11637646 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C1182130738",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C1182130738 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C1236104616",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C1236104616 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C1442673049",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C1442673049 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: complete balance drain detected on 1 occasion(s); elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C1568995278",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C1568995278 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C183836878",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C183836878 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C2004560688",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C2004560688 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C2145280837",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C2145280837 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C436406406",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C436406406 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C728044836",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C728044836 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C964007698",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C964007698 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C1074861133",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C1074861133 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C1103525093",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C1103525093 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C1845038136",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C1845038136 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C208329746",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C208329746 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C1999568874",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C1999568874 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C1335787735",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C1335787735 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  },
+  {
+    "account_id": "C314740639",
+    "fraud_prob": 1.0,
+    "risk_level": "CRITICAL",
+    "narrative": "Account C314740639 has been flagged by the AI system with a fraud probability of 100.0% (Risk Level: CRITICAL). Key risk indicators: elevated send velocity (1.00 transactions/hour); forwarded 100% of received funds (consistent with layering). Primary factors driving this alert: Total Amount Sent, Avg Amount Sent, Fund Dwell Time (hrs). The combination of rapid fund forwarding, balance drain events, and high-risk transaction patterns is strongly consistent with mule account behavior used to launder illicit funds. Recommended action: IMMEDIATE ACCOUNT FREEZE \u2014 Escalate to senior AML officer and file STR within 24 hours."
+  }
+]

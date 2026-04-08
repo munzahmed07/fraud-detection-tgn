@@ -1,0 +1,1402 @@
+[
+  {
+    "path": [
+      "C546529",
+      "C1056895901"
+    ],
+    "hops": 1,
+    "source": "C546529",
+    "destination": "C1056895901",
+    "total_amount": 10000000.0,
+    "max_amount": 10000000.0,
+    "time_span_hours": 0,
+    "velocity": 10000000.0,
+    "path_str": "C546529 \u2192 C1056895901"
+  },
+  {
+    "path": [
+      "C887830623",
+      "C1319987164"
+    ],
+    "hops": 1,
+    "source": "C887830623",
+    "destination": "C1319987164",
+    "total_amount": 9996886.64,
+    "max_amount": 9996886.64,
+    "time_span_hours": 0,
+    "velocity": 9996886.64,
+    "path_str": "C887830623 \u2192 C1319987164"
+  },
+  {
+    "path": [
+      "C840795008",
+      "C1214752539"
+    ],
+    "hops": 1,
+    "source": "C840795008",
+    "destination": "C1214752539",
+    "total_amount": 9977761.05,
+    "max_amount": 9977761.05,
+    "time_span_hours": 0,
+    "velocity": 9977761.05,
+    "path_str": "C840795008 \u2192 C1214752539"
+  },
+  {
+    "path": [
+      "C319141085",
+      "C1942668370"
+    ],
+    "hops": 1,
+    "source": "C319141085",
+    "destination": "C1942668370",
+    "total_amount": 7515624.63,
+    "max_amount": 7515624.63,
+    "time_span_hours": 0,
+    "velocity": 7515624.63,
+    "path_str": "C319141085 \u2192 C1942668370"
+  },
+  {
+    "path": [
+      "C107395739",
+      "C133285167"
+    ],
+    "hops": 1,
+    "source": "C107395739",
+    "destination": "C133285167",
+    "total_amount": 6273660.45,
+    "max_amount": 6273660.45,
+    "time_span_hours": 0,
+    "velocity": 6273660.45,
+    "path_str": "C107395739 \u2192 C133285167"
+  },
+  {
+    "path": [
+      "C1741031215",
+      "C1048619563"
+    ],
+    "hops": 1,
+    "source": "C1741031215",
+    "destination": "C1048619563",
+    "total_amount": 5469910.99,
+    "max_amount": 5469910.99,
+    "time_span_hours": 0,
+    "velocity": 5469910.99,
+    "path_str": "C1741031215 \u2192 C1048619563"
+  },
+  {
+    "path": [
+      "C1998644906",
+      "C658898647"
+    ],
+    "hops": 1,
+    "source": "C1998644906",
+    "destination": "C658898647",
+    "total_amount": 5239429.19,
+    "max_amount": 5239429.19,
+    "time_span_hours": 0,
+    "velocity": 5239429.19,
+    "path_str": "C1998644906 \u2192 C658898647"
+  },
+  {
+    "path": [
+      "C728984460",
+      "C639921569"
+    ],
+    "hops": 1,
+    "source": "C728984460",
+    "destination": "C639921569",
+    "total_amount": 4953893.08,
+    "max_amount": 4953893.08,
+    "time_span_hours": 0,
+    "velocity": 4953893.08,
+    "path_str": "C728984460 \u2192 C639921569"
+  },
+  {
+    "path": [
+      "C1971684490",
+      "C497024597"
+    ],
+    "hops": 1,
+    "source": "C1971684490",
+    "destination": "C497024597",
+    "total_amount": 4896179.38,
+    "max_amount": 4896179.38,
+    "time_span_hours": 0,
+    "velocity": 4896179.38,
+    "path_str": "C1971684490 \u2192 C497024597"
+  },
+  {
+    "path": [
+      "C2089741901",
+      "C434503423"
+    ],
+    "hops": 1,
+    "source": "C2089741901",
+    "destination": "C434503423",
+    "total_amount": 4631432.03,
+    "max_amount": 4631432.03,
+    "time_span_hours": 0,
+    "velocity": 4631432.03,
+    "path_str": "C2089741901 \u2192 C434503423"
+  },
+  {
+    "path": [
+      "C1705612559",
+      "C1077224856"
+    ],
+    "hops": 1,
+    "source": "C1705612559",
+    "destination": "C1077224856",
+    "total_amount": 4481768.26,
+    "max_amount": 4481768.26,
+    "time_span_hours": 0,
+    "velocity": 4481768.26,
+    "path_str": "C1705612559 \u2192 C1077224856"
+  },
+  {
+    "path": [
+      "C1817956756",
+      "C362023079"
+    ],
+    "hops": 1,
+    "source": "C1817956756",
+    "destination": "C362023079",
+    "total_amount": 3996798.71,
+    "max_amount": 3996798.71,
+    "time_span_hours": 0,
+    "velocity": 3996798.71,
+    "path_str": "C1817956756 \u2192 C362023079"
+  },
+  {
+    "path": [
+      "C633635438",
+      "C1640217168"
+    ],
+    "hops": 1,
+    "source": "C633635438",
+    "destination": "C1640217168",
+    "total_amount": 3707342.38,
+    "max_amount": 3707342.38,
+    "time_span_hours": 0,
+    "velocity": 3707342.38,
+    "path_str": "C633635438 \u2192 C1640217168"
+  },
+  {
+    "path": [
+      "C458467003",
+      "C837210602"
+    ],
+    "hops": 1,
+    "source": "C458467003",
+    "destination": "C837210602",
+    "total_amount": 3571807.73,
+    "max_amount": 3571807.73,
+    "time_span_hours": 0,
+    "velocity": 3571807.73,
+    "path_str": "C458467003 \u2192 C837210602"
+  },
+  {
+    "path": [
+      "C1558861751",
+      "C939990653"
+    ],
+    "hops": 1,
+    "source": "C1558861751",
+    "destination": "C939990653",
+    "total_amount": 3351304.78,
+    "max_amount": 3351304.78,
+    "time_span_hours": 0,
+    "velocity": 3351304.78,
+    "path_str": "C1558861751 \u2192 C939990653"
+  },
+  {
+    "path": [
+      "C2110692683",
+      "C1822459038"
+    ],
+    "hops": 1,
+    "source": "C2110692683",
+    "destination": "C1822459038",
+    "total_amount": 3080973.39,
+    "max_amount": 3080973.39,
+    "time_span_hours": 0,
+    "velocity": 3080973.39,
+    "path_str": "C2110692683 \u2192 C1822459038"
+  },
+  {
+    "path": [
+      "C4863930",
+      "C581627997"
+    ],
+    "hops": 1,
+    "source": "C4863930",
+    "destination": "C581627997",
+    "total_amount": 2533650.09,
+    "max_amount": 2533650.09,
+    "time_span_hours": 0,
+    "velocity": 2533650.09,
+    "path_str": "C4863930 \u2192 C581627997"
+  },
+  {
+    "path": [
+      "C2115055382",
+      "C1884304223"
+    ],
+    "hops": 1,
+    "source": "C2115055382",
+    "destination": "C1884304223",
+    "total_amount": 2391612.36,
+    "max_amount": 2391612.36,
+    "time_span_hours": 0,
+    "velocity": 2391612.36,
+    "path_str": "C2115055382 \u2192 C1884304223"
+  },
+  {
+    "path": [
+      "C1373829253",
+      "C1286348462"
+    ],
+    "hops": 1,
+    "source": "C1373829253",
+    "destination": "C1286348462",
+    "total_amount": 2324907.08,
+    "max_amount": 2324907.08,
+    "time_span_hours": 0,
+    "velocity": 2324907.08,
+    "path_str": "C1373829253 \u2192 C1286348462"
+  },
+  {
+    "path": [
+      "C227395466",
+      "C1510391871"
+    ],
+    "hops": 1,
+    "source": "C227395466",
+    "destination": "C1510391871",
+    "total_amount": 2230432.56,
+    "max_amount": 2230432.56,
+    "time_span_hours": 0,
+    "velocity": 2230432.56,
+    "path_str": "C227395466 \u2192 C1510391871"
+  },
+  {
+    "path": [
+      "C992917413",
+      "C104038589"
+    ],
+    "hops": 1,
+    "source": "C992917413",
+    "destination": "C104038589",
+    "total_amount": 2050727.81,
+    "max_amount": 2050727.81,
+    "time_span_hours": 0,
+    "velocity": 2050727.81,
+    "path_str": "C992917413 \u2192 C104038589"
+  },
+  {
+    "path": [
+      "C715029330",
+      "C236534502"
+    ],
+    "hops": 1,
+    "source": "C715029330",
+    "destination": "C236534502",
+    "total_amount": 1868438.44,
+    "max_amount": 1868438.44,
+    "time_span_hours": 0,
+    "velocity": 1868438.44,
+    "path_str": "C715029330 \u2192 C236534502"
+  },
+  {
+    "path": [
+      "C767567328",
+      "C1624455220"
+    ],
+    "hops": 1,
+    "source": "C767567328",
+    "destination": "C1624455220",
+    "total_amount": 1864022.05,
+    "max_amount": 1864022.05,
+    "time_span_hours": 0,
+    "velocity": 1864022.05,
+    "path_str": "C767567328 \u2192 C1624455220"
+  },
+  {
+    "path": [
+      "C1865185181",
+      "C388097316"
+    ],
+    "hops": 1,
+    "source": "C1865185181",
+    "destination": "C388097316",
+    "total_amount": 1698263.69,
+    "max_amount": 1698263.69,
+    "time_span_hours": 0,
+    "velocity": 1698263.69,
+    "path_str": "C1865185181 \u2192 C388097316"
+  },
+  {
+    "path": [
+      "C101677237",
+      "C1078128267"
+    ],
+    "hops": 1,
+    "source": "C101677237",
+    "destination": "C1078128267",
+    "total_amount": 1669143.57,
+    "max_amount": 1669143.57,
+    "time_span_hours": 0,
+    "velocity": 1669143.57,
+    "path_str": "C101677237 \u2192 C1078128267"
+  },
+  {
+    "path": [
+      "C1681145385",
+      "C1060758741"
+    ],
+    "hops": 1,
+    "source": "C1681145385",
+    "destination": "C1060758741",
+    "total_amount": 1595587.46,
+    "max_amount": 1595587.46,
+    "time_span_hours": 0,
+    "velocity": 1595587.46,
+    "path_str": "C1681145385 \u2192 C1060758741"
+  },
+  {
+    "path": [
+      "C1863182512",
+      "C2126274036"
+    ],
+    "hops": 1,
+    "source": "C1863182512",
+    "destination": "C2126274036",
+    "total_amount": 1591263.43,
+    "max_amount": 1591263.43,
+    "time_span_hours": 0,
+    "velocity": 1591263.43,
+    "path_str": "C1863182512 \u2192 C2126274036"
+  },
+  {
+    "path": [
+      "C208508333",
+      "C1196762236"
+    ],
+    "hops": 1,
+    "source": "C208508333",
+    "destination": "C1196762236",
+    "total_amount": 1457085.28,
+    "max_amount": 1457085.28,
+    "time_span_hours": 0,
+    "velocity": 1457085.28,
+    "path_str": "C208508333 \u2192 C1196762236"
+  },
+  {
+    "path": [
+      "C1964276843",
+      "C164163741"
+    ],
+    "hops": 1,
+    "source": "C1964276843",
+    "destination": "C164163741",
+    "total_amount": 1418168.85,
+    "max_amount": 1418168.85,
+    "time_span_hours": 0,
+    "velocity": 1418168.85,
+    "path_str": "C1964276843 \u2192 C164163741"
+  },
+  {
+    "path": [
+      "C851172808",
+      "C1693761421"
+    ],
+    "hops": 1,
+    "source": "C851172808",
+    "destination": "C1693761421",
+    "total_amount": 1397689.48,
+    "max_amount": 1397689.48,
+    "time_span_hours": 0,
+    "velocity": 1397689.48,
+    "path_str": "C851172808 \u2192 C1693761421"
+  },
+  {
+    "path": [
+      "C315283970",
+      "C527460234"
+    ],
+    "hops": 1,
+    "source": "C315283970",
+    "destination": "C527460234",
+    "total_amount": 1334919.42,
+    "max_amount": 1334919.42,
+    "time_span_hours": 0,
+    "velocity": 1334919.42,
+    "path_str": "C315283970 \u2192 C527460234"
+  },
+  {
+    "path": [
+      "C555990868",
+      "C1318550066"
+    ],
+    "hops": 1,
+    "source": "C555990868",
+    "destination": "C1318550066",
+    "total_amount": 1170282.92,
+    "max_amount": 1170282.92,
+    "time_span_hours": 0,
+    "velocity": 1170282.92,
+    "path_str": "C555990868 \u2192 C1318550066"
+  },
+  {
+    "path": [
+      "C1724151856",
+      "C1229046559"
+    ],
+    "hops": 1,
+    "source": "C1724151856",
+    "destination": "C1229046559",
+    "total_amount": 1159010.44,
+    "max_amount": 1159010.44,
+    "time_span_hours": 0,
+    "velocity": 1159010.44,
+    "path_str": "C1724151856 \u2192 C1229046559"
+  },
+  {
+    "path": [
+      "C670587931",
+      "C150406565"
+    ],
+    "hops": 1,
+    "source": "C670587931",
+    "destination": "C150406565",
+    "total_amount": 1154353.99,
+    "max_amount": 1154353.99,
+    "time_span_hours": 0,
+    "velocity": 1154353.99,
+    "path_str": "C670587931 \u2192 C150406565"
+  },
+  {
+    "path": [
+      "C1218322192",
+      "C1107369132"
+    ],
+    "hops": 1,
+    "source": "C1218322192",
+    "destination": "C1107369132",
+    "total_amount": 1144089.37,
+    "max_amount": 1144089.37,
+    "time_span_hours": 0,
+    "velocity": 1144089.37,
+    "path_str": "C1218322192 \u2192 C1107369132"
+  },
+  {
+    "path": [
+      "C1239977402",
+      "C1417680063"
+    ],
+    "hops": 1,
+    "source": "C1239977402",
+    "destination": "C1417680063",
+    "total_amount": 1139165.57,
+    "max_amount": 1139165.57,
+    "time_span_hours": 0,
+    "velocity": 1139165.57,
+    "path_str": "C1239977402 \u2192 C1417680063"
+  },
+  {
+    "path": [
+      "C1515227045",
+      "C1377230144"
+    ],
+    "hops": 1,
+    "source": "C1515227045",
+    "destination": "C1377230144",
+    "total_amount": 1084144.37,
+    "max_amount": 1084144.37,
+    "time_span_hours": 0,
+    "velocity": 1084144.37,
+    "path_str": "C1515227045 \u2192 C1377230144"
+  },
+  {
+    "path": [
+      "C1414793795",
+      "C1137450827"
+    ],
+    "hops": 1,
+    "source": "C1414793795",
+    "destination": "C1137450827",
+    "total_amount": 993088.06,
+    "max_amount": 993088.06,
+    "time_span_hours": 0,
+    "velocity": 993088.06,
+    "path_str": "C1414793795 \u2192 C1137450827"
+  },
+  {
+    "path": [
+      "C186550452",
+      "C2061604304"
+    ],
+    "hops": 1,
+    "source": "C186550452",
+    "destination": "C2061604304",
+    "total_amount": 964388.1,
+    "max_amount": 964388.1,
+    "time_span_hours": 0,
+    "velocity": 964388.1,
+    "path_str": "C186550452 \u2192 C2061604304"
+  },
+  {
+    "path": [
+      "C1034067842",
+      "C64488744"
+    ],
+    "hops": 1,
+    "source": "C1034067842",
+    "destination": "C64488744",
+    "total_amount": 953615.38,
+    "max_amount": 953615.38,
+    "time_span_hours": 0,
+    "velocity": 953615.38,
+    "path_str": "C1034067842 \u2192 C64488744"
+  },
+  {
+    "path": [
+      "C101455775",
+      "C1834538811"
+    ],
+    "hops": 1,
+    "source": "C101455775",
+    "destination": "C1834538811",
+    "total_amount": 931684.75,
+    "max_amount": 931684.75,
+    "time_span_hours": 0,
+    "velocity": 931684.75,
+    "path_str": "C101455775 \u2192 C1834538811"
+  },
+  {
+    "path": [
+      "C97407183",
+      "C665978376"
+    ],
+    "hops": 1,
+    "source": "C97407183",
+    "destination": "C665978376",
+    "total_amount": 880975.83,
+    "max_amount": 880975.83,
+    "time_span_hours": 0,
+    "velocity": 880975.83,
+    "path_str": "C97407183 \u2192 C665978376"
+  },
+  {
+    "path": [
+      "C1046755509",
+      "C758775934"
+    ],
+    "hops": 1,
+    "source": "C1046755509",
+    "destination": "C758775934",
+    "total_amount": 839077.79,
+    "max_amount": 839077.79,
+    "time_span_hours": 0,
+    "velocity": 839077.79,
+    "path_str": "C1046755509 \u2192 C758775934"
+  },
+  {
+    "path": [
+      "C747251675",
+      "C1519845212"
+    ],
+    "hops": 1,
+    "source": "C747251675",
+    "destination": "C1519845212",
+    "total_amount": 806863.3,
+    "max_amount": 806863.3,
+    "time_span_hours": 0,
+    "velocity": 806863.3,
+    "path_str": "C747251675 \u2192 C1519845212"
+  },
+  {
+    "path": [
+      "C98533918",
+      "C1726841955"
+    ],
+    "hops": 1,
+    "source": "C98533918",
+    "destination": "C1726841955",
+    "total_amount": 800115.05,
+    "max_amount": 800115.05,
+    "time_span_hours": 0,
+    "velocity": 800115.05,
+    "path_str": "C98533918 \u2192 C1726841955"
+  },
+  {
+    "path": [
+      "C321390440",
+      "C467067146"
+    ],
+    "hops": 1,
+    "source": "C321390440",
+    "destination": "C467067146",
+    "total_amount": 746518.21,
+    "max_amount": 746518.21,
+    "time_span_hours": 0,
+    "velocity": 746518.21,
+    "path_str": "C321390440 \u2192 C467067146"
+  },
+  {
+    "path": [
+      "C1873382948",
+      "C916193312"
+    ],
+    "hops": 1,
+    "source": "C1873382948",
+    "destination": "C916193312",
+    "total_amount": 636942.02,
+    "max_amount": 636942.02,
+    "time_span_hours": 0,
+    "velocity": 636942.02,
+    "path_str": "C1873382948 \u2192 C916193312"
+  },
+  {
+    "path": [
+      "C363777689",
+      "C1766850055"
+    ],
+    "hops": 1,
+    "source": "C363777689",
+    "destination": "C1766850055",
+    "total_amount": 592615.53,
+    "max_amount": 592615.53,
+    "time_span_hours": 0,
+    "velocity": 592615.53,
+    "path_str": "C363777689 \u2192 C1766850055"
+  },
+  {
+    "path": [
+      "C1420583441",
+      "C1377219388"
+    ],
+    "hops": 1,
+    "source": "C1420583441",
+    "destination": "C1377219388",
+    "total_amount": 591032.52,
+    "max_amount": 591032.52,
+    "time_span_hours": 0,
+    "velocity": 591032.52,
+    "path_str": "C1420583441 \u2192 C1377219388"
+  },
+  {
+    "path": [
+      "C1021314422",
+      "C2062695733"
+    ],
+    "hops": 1,
+    "source": "C1021314422",
+    "destination": "C2062695733",
+    "total_amount": 581421.85,
+    "max_amount": 581421.85,
+    "time_span_hours": 0,
+    "velocity": 581421.85,
+    "path_str": "C1021314422 \u2192 C2062695733"
+  },
+  {
+    "path": [
+      "C940330656",
+      "C382068653"
+    ],
+    "hops": 1,
+    "source": "C940330656",
+    "destination": "C382068653",
+    "total_amount": 520500.14,
+    "max_amount": 520500.14,
+    "time_span_hours": 0,
+    "velocity": 520500.14,
+    "path_str": "C940330656 \u2192 C382068653"
+  },
+  {
+    "path": [
+      "C998822926",
+      "C1895261064"
+    ],
+    "hops": 1,
+    "source": "C998822926",
+    "destination": "C1895261064",
+    "total_amount": 450458.78,
+    "max_amount": 450458.78,
+    "time_span_hours": 0,
+    "velocity": 450458.78,
+    "path_str": "C998822926 \u2192 C1895261064"
+  },
+  {
+    "path": [
+      "C1554219817",
+      "C1514839015"
+    ],
+    "hops": 1,
+    "source": "C1554219817",
+    "destination": "C1514839015",
+    "total_amount": 447589.21,
+    "max_amount": 447589.21,
+    "time_span_hours": 0,
+    "velocity": 447589.21,
+    "path_str": "C1554219817 \u2192 C1514839015"
+  },
+  {
+    "path": [
+      "C84071102",
+      "C1576697216"
+    ],
+    "hops": 1,
+    "source": "C84071102",
+    "destination": "C1576697216",
+    "total_amount": 412668.39,
+    "max_amount": 412668.39,
+    "time_span_hours": 0,
+    "velocity": 412668.39,
+    "path_str": "C84071102 \u2192 C1576697216"
+  },
+  {
+    "path": [
+      "C1309442409",
+      "C1009459055"
+    ],
+    "hops": 1,
+    "source": "C1309442409",
+    "destination": "C1009459055",
+    "total_amount": 378204.02,
+    "max_amount": 378204.02,
+    "time_span_hours": 0,
+    "velocity": 378204.02,
+    "path_str": "C1309442409 \u2192 C1009459055"
+  },
+  {
+    "path": [
+      "C1778038801",
+      "C1836007959"
+    ],
+    "hops": 1,
+    "source": "C1778038801",
+    "destination": "C1836007959",
+    "total_amount": 371669.59,
+    "max_amount": 371669.59,
+    "time_span_hours": 0,
+    "velocity": 371669.59,
+    "path_str": "C1778038801 \u2192 C1836007959"
+  },
+  {
+    "path": [
+      "C1736832400",
+      "C2124923090"
+    ],
+    "hops": 1,
+    "source": "C1736832400",
+    "destination": "C2124923090",
+    "total_amount": 363378.75,
+    "max_amount": 363378.75,
+    "time_span_hours": 0,
+    "velocity": 363378.75,
+    "path_str": "C1736832400 \u2192 C2124923090"
+  },
+  {
+    "path": [
+      "C2139196557",
+      "C1438967690"
+    ],
+    "hops": 1,
+    "source": "C2139196557",
+    "destination": "C1438967690",
+    "total_amount": 350233.08,
+    "max_amount": 350233.08,
+    "time_span_hours": 0,
+    "velocity": 350233.08,
+    "path_str": "C2139196557 \u2192 C1438967690"
+  },
+  {
+    "path": [
+      "C1947443919",
+      "C1241262856"
+    ],
+    "hops": 1,
+    "source": "C1947443919",
+    "destination": "C1241262856",
+    "total_amount": 342970.95,
+    "max_amount": 342970.95,
+    "time_span_hours": 0,
+    "velocity": 342970.95,
+    "path_str": "C1947443919 \u2192 C1241262856"
+  },
+  {
+    "path": [
+      "C1205102139",
+      "C125162058"
+    ],
+    "hops": 1,
+    "source": "C1205102139",
+    "destination": "C125162058",
+    "total_amount": 306505.03,
+    "max_amount": 306505.03,
+    "time_span_hours": 0,
+    "velocity": 306505.03,
+    "path_str": "C1205102139 \u2192 C125162058"
+  },
+  {
+    "path": [
+      "C2076387037",
+      "C10969694"
+    ],
+    "hops": 1,
+    "source": "C2076387037",
+    "destination": "C10969694",
+    "total_amount": 286835.21,
+    "max_amount": 286835.21,
+    "time_span_hours": 0,
+    "velocity": 286835.21,
+    "path_str": "C2076387037 \u2192 C10969694"
+  },
+  {
+    "path": [
+      "C412010733",
+      "C265543802"
+    ],
+    "hops": 1,
+    "source": "C412010733",
+    "destination": "C265543802",
+    "total_amount": 240580.4,
+    "max_amount": 240580.4,
+    "time_span_hours": 0,
+    "velocity": 240580.4,
+    "path_str": "C412010733 \u2192 C265543802"
+  },
+  {
+    "path": [
+      "C378910639",
+      "C1881567873"
+    ],
+    "hops": 1,
+    "source": "C378910639",
+    "destination": "C1881567873",
+    "total_amount": 212089.74,
+    "max_amount": 212089.74,
+    "time_span_hours": 0,
+    "velocity": 212089.74,
+    "path_str": "C378910639 \u2192 C1881567873"
+  },
+  {
+    "path": [
+      "C1224520946",
+      "C819353215"
+    ],
+    "hops": 1,
+    "source": "C1224520946",
+    "destination": "C819353215",
+    "total_amount": 203881.96,
+    "max_amount": 203881.96,
+    "time_span_hours": 0,
+    "velocity": 203881.96,
+    "path_str": "C1224520946 \u2192 C819353215"
+  },
+  {
+    "path": [
+      "C265913219",
+      "C1198778182"
+    ],
+    "hops": 1,
+    "source": "C265913219",
+    "destination": "C1198778182",
+    "total_amount": 202263.03,
+    "max_amount": 202263.03,
+    "time_span_hours": 0,
+    "velocity": 202263.03,
+    "path_str": "C265913219 \u2192 C1198778182"
+  },
+  {
+    "path": [
+      "C962323728",
+      "C1193568854"
+    ],
+    "hops": 1,
+    "source": "C962323728",
+    "destination": "C1193568854",
+    "total_amount": 172915.56,
+    "max_amount": 172915.56,
+    "time_span_hours": 0,
+    "velocity": 172915.56,
+    "path_str": "C962323728 \u2192 C1193568854"
+  },
+  {
+    "path": [
+      "C1689700172",
+      "C149696600"
+    ],
+    "hops": 1,
+    "source": "C1689700172",
+    "destination": "C149696600",
+    "total_amount": 164500.81,
+    "max_amount": 164500.81,
+    "time_span_hours": 0,
+    "velocity": 164500.81,
+    "path_str": "C1689700172 \u2192 C149696600"
+  },
+  {
+    "path": [
+      "C1227029335",
+      "C1661119285"
+    ],
+    "hops": 1,
+    "source": "C1227029335",
+    "destination": "C1661119285",
+    "total_amount": 160351.22,
+    "max_amount": 160351.22,
+    "time_span_hours": 0,
+    "velocity": 160351.22,
+    "path_str": "C1227029335 \u2192 C1661119285"
+  },
+  {
+    "path": [
+      "C1011665365",
+      "C1882225131"
+    ],
+    "hops": 1,
+    "source": "C1011665365",
+    "destination": "C1882225131",
+    "total_amount": 122090.79,
+    "max_amount": 122090.79,
+    "time_span_hours": 0,
+    "velocity": 122090.79,
+    "path_str": "C1011665365 \u2192 C1882225131"
+  },
+  {
+    "path": [
+      "C646283702",
+      "C546104112"
+    ],
+    "hops": 1,
+    "source": "C646283702",
+    "destination": "C546104112",
+    "total_amount": 114889.61,
+    "max_amount": 114889.61,
+    "time_span_hours": 0,
+    "velocity": 114889.61,
+    "path_str": "C646283702 \u2192 C546104112"
+  },
+  {
+    "path": [
+      "C605744517",
+      "C839259296"
+    ],
+    "hops": 1,
+    "source": "C605744517",
+    "destination": "C839259296",
+    "total_amount": 113614.57,
+    "max_amount": 113614.57,
+    "time_span_hours": 0,
+    "velocity": 113614.57,
+    "path_str": "C605744517 \u2192 C839259296"
+  },
+  {
+    "path": [
+      "C311401803",
+      "C1675116144"
+    ],
+    "hops": 1,
+    "source": "C311401803",
+    "destination": "C1675116144",
+    "total_amount": 113447.92,
+    "max_amount": 113447.92,
+    "time_span_hours": 0,
+    "velocity": 113447.92,
+    "path_str": "C311401803 \u2192 C1675116144"
+  },
+  {
+    "path": [
+      "C1084653539",
+      "C1027684091"
+    ],
+    "hops": 1,
+    "source": "C1084653539",
+    "destination": "C1027684091",
+    "total_amount": 95348.33,
+    "max_amount": 95348.33,
+    "time_span_hours": 0,
+    "velocity": 95348.33,
+    "path_str": "C1084653539 \u2192 C1027684091"
+  },
+  {
+    "path": [
+      "C1967440853",
+      "C1496631599"
+    ],
+    "hops": 1,
+    "source": "C1967440853",
+    "destination": "C1496631599",
+    "total_amount": 94261.84,
+    "max_amount": 94261.84,
+    "time_span_hours": 0,
+    "velocity": 94261.84,
+    "path_str": "C1967440853 \u2192 C1496631599"
+  },
+  {
+    "path": [
+      "C1773649560",
+      "C2085820540"
+    ],
+    "hops": 1,
+    "source": "C1773649560",
+    "destination": "C2085820540",
+    "total_amount": 93483.23,
+    "max_amount": 93483.23,
+    "time_span_hours": 0,
+    "velocity": 93483.23,
+    "path_str": "C1773649560 \u2192 C2085820540"
+  },
+  {
+    "path": [
+      "C1017446599",
+      "C1901879882"
+    ],
+    "hops": 1,
+    "source": "C1017446599",
+    "destination": "C1901879882",
+    "total_amount": 91882.6,
+    "max_amount": 91882.6,
+    "time_span_hours": 0,
+    "velocity": 91882.6,
+    "path_str": "C1017446599 \u2192 C1901879882"
+  },
+  {
+    "path": [
+      "C1651029918",
+      "C467148053"
+    ],
+    "hops": 1,
+    "source": "C1651029918",
+    "destination": "C467148053",
+    "total_amount": 90915.0,
+    "max_amount": 90915.0,
+    "time_span_hours": 0,
+    "velocity": 90915.0,
+    "path_str": "C1651029918 \u2192 C467148053"
+  },
+  {
+    "path": [
+      "C1295812229",
+      "C1254182177"
+    ],
+    "hops": 1,
+    "source": "C1295812229",
+    "destination": "C1254182177",
+    "total_amount": 90204.54,
+    "max_amount": 90204.54,
+    "time_span_hours": 0,
+    "velocity": 90204.54,
+    "path_str": "C1295812229 \u2192 C1254182177"
+  },
+  {
+    "path": [
+      "C871094830",
+      "C697909635"
+    ],
+    "hops": 1,
+    "source": "C871094830",
+    "destination": "C697909635",
+    "total_amount": 88424.06,
+    "max_amount": 88424.06,
+    "time_span_hours": 0,
+    "velocity": 88424.06,
+    "path_str": "C871094830 \u2192 C697909635"
+  },
+  {
+    "path": [
+      "C1052814036",
+      "C1368378517"
+    ],
+    "hops": 1,
+    "source": "C1052814036",
+    "destination": "C1368378517",
+    "total_amount": 79076.14,
+    "max_amount": 79076.14,
+    "time_span_hours": 0,
+    "velocity": 79076.14,
+    "path_str": "C1052814036 \u2192 C1368378517"
+  },
+  {
+    "path": [
+      "C834571675",
+      "C312865842"
+    ],
+    "hops": 1,
+    "source": "C834571675",
+    "destination": "C312865842",
+    "total_amount": 77773.14,
+    "max_amount": 77773.14,
+    "time_span_hours": 0,
+    "velocity": 77773.14,
+    "path_str": "C834571675 \u2192 C312865842"
+  },
+  {
+    "path": [
+      "C1871273131",
+      "C1784771871"
+    ],
+    "hops": 1,
+    "source": "C1871273131",
+    "destination": "C1784771871",
+    "total_amount": 76133.19,
+    "max_amount": 76133.19,
+    "time_span_hours": 0,
+    "velocity": 76133.19,
+    "path_str": "C1871273131 \u2192 C1784771871"
+  },
+  {
+    "path": [
+      "C743231238",
+      "C488128368"
+    ],
+    "hops": 1,
+    "source": "C743231238",
+    "destination": "C488128368",
+    "total_amount": 71511.19,
+    "max_amount": 71511.19,
+    "time_span_hours": 0,
+    "velocity": 71511.19,
+    "path_str": "C743231238 \u2192 C488128368"
+  },
+  {
+    "path": [
+      "C1343549154",
+      "C133181668"
+    ],
+    "hops": 1,
+    "source": "C1343549154",
+    "destination": "C133181668",
+    "total_amount": 67050.5,
+    "max_amount": 67050.5,
+    "time_span_hours": 0,
+    "velocity": 67050.5,
+    "path_str": "C1343549154 \u2192 C133181668"
+  },
+  {
+    "path": [
+      "C931224089",
+      "C1157817503"
+    ],
+    "hops": 1,
+    "source": "C931224089",
+    "destination": "C1157817503",
+    "total_amount": 55740.39,
+    "max_amount": 55740.39,
+    "time_span_hours": 0,
+    "velocity": 55740.39,
+    "path_str": "C931224089 \u2192 C1157817503"
+  },
+  {
+    "path": [
+      "C732624402",
+      "C1786899731"
+    ],
+    "hops": 1,
+    "source": "C732624402",
+    "destination": "C1786899731",
+    "total_amount": 50279.4,
+    "max_amount": 50279.4,
+    "time_span_hours": 0,
+    "velocity": 50279.4,
+    "path_str": "C732624402 \u2192 C1786899731"
+  },
+  {
+    "path": [
+      "C958487787",
+      "C218393296"
+    ],
+    "hops": 1,
+    "source": "C958487787",
+    "destination": "C218393296",
+    "total_amount": 45807.51,
+    "max_amount": 45807.51,
+    "time_span_hours": 0,
+    "velocity": 45807.51,
+    "path_str": "C958487787 \u2192 C218393296"
+  },
+  {
+    "path": [
+      "C1363437677",
+      "C1445811732"
+    ],
+    "hops": 1,
+    "source": "C1363437677",
+    "destination": "C1445811732",
+    "total_amount": 44733.5,
+    "max_amount": 44733.5,
+    "time_span_hours": 0,
+    "velocity": 44733.5,
+    "path_str": "C1363437677 \u2192 C1445811732"
+  },
+  {
+    "path": [
+      "C1570947686",
+      "C264905244"
+    ],
+    "hops": 1,
+    "source": "C1570947686",
+    "destination": "C264905244",
+    "total_amount": 40433.84,
+    "max_amount": 40433.84,
+    "time_span_hours": 0,
+    "velocity": 40433.84,
+    "path_str": "C1570947686 \u2192 C264905244"
+  },
+  {
+    "path": [
+      "C30896720",
+      "C1159359491"
+    ],
+    "hops": 1,
+    "source": "C30896720",
+    "destination": "C1159359491",
+    "total_amount": 31887.18,
+    "max_amount": 31887.18,
+    "time_span_hours": 0,
+    "velocity": 31887.18,
+    "path_str": "C30896720 \u2192 C1159359491"
+  },
+  {
+    "path": [
+      "C1750640057",
+      "C139184111"
+    ],
+    "hops": 1,
+    "source": "C1750640057",
+    "destination": "C139184111",
+    "total_amount": 27059.86,
+    "max_amount": 27059.86,
+    "time_span_hours": 0,
+    "velocity": 27059.86,
+    "path_str": "C1750640057 \u2192 C139184111"
+  },
+  {
+    "path": [
+      "C2061910313",
+      "C1505894809"
+    ],
+    "hops": 1,
+    "source": "C2061910313",
+    "destination": "C1505894809",
+    "total_amount": 25761.04,
+    "max_amount": 25761.04,
+    "time_span_hours": 0,
+    "velocity": 25761.04,
+    "path_str": "C2061910313 \u2192 C1505894809"
+  },
+  {
+    "path": [
+      "C427738422",
+      "C950599910"
+    ],
+    "hops": 1,
+    "source": "C427738422",
+    "destination": "C950599910",
+    "total_amount": 23639.56,
+    "max_amount": 23639.56,
+    "time_span_hours": 0,
+    "velocity": 23639.56,
+    "path_str": "C427738422 \u2192 C950599910"
+  },
+  {
+    "path": [
+      "C1979477621",
+      "C1623524019"
+    ],
+    "hops": 1,
+    "source": "C1979477621",
+    "destination": "C1623524019",
+    "total_amount": 19729.68,
+    "max_amount": 19729.68,
+    "time_span_hours": 0,
+    "velocity": 19729.68,
+    "path_str": "C1979477621 \u2192 C1623524019"
+  },
+  {
+    "path": [
+      "C2130173515",
+      "C1264209653"
+    ],
+    "hops": 1,
+    "source": "C2130173515",
+    "destination": "C1264209653",
+    "total_amount": 19226.25,
+    "max_amount": 19226.25,
+    "time_span_hours": 0,
+    "velocity": 19226.25,
+    "path_str": "C2130173515 \u2192 C1264209653"
+  },
+  {
+    "path": [
+      "C759912226",
+      "C287309829"
+    ],
+    "hops": 1,
+    "source": "C759912226",
+    "destination": "C287309829",
+    "total_amount": 17051.69,
+    "max_amount": 17051.69,
+    "time_span_hours": 0,
+    "velocity": 17051.69,
+    "path_str": "C759912226 \u2192 C287309829"
+  },
+  {
+    "path": [
+      "C661074170",
+      "C2110252237"
+    ],
+    "hops": 1,
+    "source": "C661074170",
+    "destination": "C2110252237",
+    "total_amount": 14279.89,
+    "max_amount": 14279.89,
+    "time_span_hours": 0,
+    "velocity": 14279.89,
+    "path_str": "C661074170 \u2192 C2110252237"
+  },
+  {
+    "path": [
+      "C213063852",
+      "C922511709"
+    ],
+    "hops": 1,
+    "source": "C213063852",
+    "destination": "C922511709",
+    "total_amount": 10119.47,
+    "max_amount": 10119.47,
+    "time_span_hours": 0,
+    "velocity": 10119.47,
+    "path_str": "C213063852 \u2192 C922511709"
+  },
+  {
+    "path": [
+      "C1178286288",
+      "C626411479"
+    ],
+    "hops": 1,
+    "source": "C1178286288",
+    "destination": "C626411479",
+    "total_amount": 7466.12,
+    "max_amount": 7466.12,
+    "time_span_hours": 0,
+    "velocity": 7466.12,
+    "path_str": "C1178286288 \u2192 C626411479"
+  },
+  {
+    "path": [
+      "C850424960",
+      "C1620165471"
+    ],
+    "hops": 1,
+    "source": "C850424960",
+    "destination": "C1620165471",
+    "total_amount": 7360.15,
+    "max_amount": 7360.15,
+    "time_span_hours": 0,
+    "velocity": 7360.15,
+    "path_str": "C850424960 \u2192 C1620165471"
+  }
+]

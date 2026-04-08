@@ -1,0 +1,28 @@
+# Data files (too large for GitHub)
+data/raw/
+data/processed/
+
+# Model weights
+models/
+output/best_tgn.pt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.conda/
+
+# Output files (generated at runtime)
+output/*.npz
+output/*.npy
+output/*.csv
+output/reports/
+output/explanations/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+*.egg-info/
+dist/
+build/

@@ -1,0 +1,18 @@
+feature,display,importance
+balance_drains,Balance Drain Count,1.3006417892797244
+high_risk_sent,High-Risk Transactions Sent,0.6403160509118998
+sent_avg,Avg Amount Sent,0.2164335150936795
+sent_total,Total Amount Sent,0.20607834004794692
+dwell_time,Fund Dwell Time (hrs),0.1803611404826338
+forward_ratio,Forward Ratio (sent/recv),0.00858988059604526
+recv_avg,Avg Amount Received,5.2041704279304214e-21
+sent_count,Outgoing Transaction Count,0.0
+recv_total,Total Amount Received,0.0
+recv_velocity,Receive Velocity (tx/hr),0.0
+send_velocity,Send Velocity (tx/hr),0.0
+recv_count,Incoming Transaction Count,0.0
+is_rapid_forwarder,Rapid Forwarder Flag,0.0
+activity_span,Activity Time Span,0.0
+fan_in_out,Fan-In/Fan-Out Score,0.0
+burst_send,Burst Send Count,0.0
+burst_recv,Burst Receive Count,0.0

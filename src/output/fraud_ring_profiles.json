@@ -1,0 +1,196 @@
+[
+  {
+    "community_id": 112893,
+    "ring_label": "FRAUD_RING",
+    "ring_score": 0.6667,
+    "n_nodes": 3,
+    "n_edges": 2,
+    "n_fraud_nodes": 1,
+    "fraud_density": 0.3333,
+    "total_flow": 554550.09,
+    "coordinator": "C772681684",
+    "fraud_accounts": [
+      "C491994230"
+    ],
+    "transaction_types": {
+      "CASH_OUT": 1,
+      "TRANSFER": 1
+    },
+    "avg_amount": 277275.04,
+    "drain_ratio": 1.0
+  },
+  {
+    "community_id": 143907,
+    "ring_label": "FRAUD_RING",
+    "ring_score": 0.6667,
+    "n_nodes": 3,
+    "n_edges": 2,
+    "n_fraud_nodes": 1,
+    "fraud_density": 0.3333,
+    "total_flow": 272817.83,
+    "coordinator": "C1193568854",
+    "fraud_accounts": [
+      "C962323728"
+    ],
+    "transaction_types": {
+      "CASH_OUT": 2
+    },
+    "avg_amount": 136408.92,
+    "drain_ratio": 1.0
+  },
+  {
+    "community_id": 74934,
+    "ring_label": "FRAUD_RING",
+    "ring_score": 0.6667,
+    "n_nodes": 3,
+    "n_edges": 2,
+    "n_fraud_nodes": 1,
+    "fraud_density": 0.3333,
+    "total_flow": 845293.5,
+    "coordinator": "C398205372",
+    "fraud_accounts": [
+      "C1897206044"
+    ],
+    "transaction_types": {
+      "CASH_OUT": 2
+    },
+    "avg_amount": 422646.75,
+    "drain_ratio": 1.0
+  },
+  {
+    "community_id": 30033,
+    "ring_label": "FRAUD_RING",
+    "ring_score": 0.6667,
+    "n_nodes": 3,
+    "n_edges": 2,
+    "n_fraud_nodes": 1,
+    "fraud_density": 0.3333,
+    "total_flow": 1462937.17,
+    "coordinator": "C150406565",
+    "fraud_accounts": [
+      "C670587931"
+    ],
+    "transaction_types": {
+      "TRANSFER": 1,
+      "CASH_OUT": 1
+    },
+    "avg_amount": 731468.58,
+    "drain_ratio": 1.0
+  },
+  {
+    "community_id": 31942,
+    "ring_label": "FRAUD_RING",
+    "ring_score": 0.6667,
+    "n_nodes": 3,
+    "n_edges": 2,
+    "n_fraud_nodes": 1,
+    "fraud_density": 0.3333,
+    "total_flow": 1974712.43,
+    "coordinator": "C247785956",
+    "fraud_accounts": [
+      "C527346437"
+    ],
+    "transaction_types": {
+      "CASH_OUT": 2
+    },
+    "avg_amount": 987356.21,
+    "drain_ratio": 1.0
+  },
+  {
+    "community_id": 129068,
+    "ring_label": "FRAUD_RING",
+    "ring_score": 0.6667,
+    "n_nodes": 3,
+    "n_edges": 2,
+    "n_fraud_nodes": 1,
+    "fraud_density": 0.3333,
+    "total_flow": 778943.84,
+    "coordinator": "C333643988",
+    "fraud_accounts": [
+      "C1286314834"
+    ],
+    "transaction_types": {
+      "CASH_OUT": 2
+    },
+    "avg_amount": 389471.92,
+    "drain_ratio": 1.0
+  },
+  {
+    "community_id": 68226,
+    "ring_label": "FRAUD_RING",
+    "ring_score": 0.6667,
+    "n_nodes": 3,
+    "n_edges": 2,
+    "n_fraud_nodes": 1,
+    "fraud_density": 0.3333,
+    "total_flow": 1327831.96,
+    "coordinator": "C1229046559",
+    "fraud_accounts": [
+      "C1724151856"
+    ],
+    "transaction_types": {
+      "CASH_OUT": 2
+    },
+    "avg_amount": 663915.98,
+    "drain_ratio": 1.0
+  },
+  {
+    "community_id": 120677,
+    "ring_label": "FRAUD_RING",
+    "ring_score": 0.6667,
+    "n_nodes": 3,
+    "n_edges": 2,
+    "n_fraud_nodes": 1,
+    "fraud_density": 0.3333,
+    "total_flow": 215624.19999999998,
+    "coordinator": "C1881567873",
+    "fraud_accounts": [
+      "C378910639"
+    ],
+    "transaction_types": {
+      "CASH_OUT": 1,
+      "TRANSFER": 1
+    },
+    "avg_amount": 107812.1,
+    "drain_ratio": 1.0
+  },
+  {
+    "community_id": 14016,
+    "ring_label": "FRAUD_RING",
+    "ring_score": 0.6667,
+    "n_nodes": 3,
+    "n_edges": 2,
+    "n_fraud_nodes": 1,
+    "fraud_density": 0.3333,
+    "total_flow": 122466.18,
+    "coordinator": "C312865842",
+    "fraud_accounts": [
+      "C834571675"
+    ],
+    "transaction_types": {
+      "TRANSFER": 1,
+      "CASH_OUT": 1
+    },
+    "avg_amount": 61233.09,
+    "drain_ratio": 1.0
+  },
+  {
+    "community_id": 79729,
+    "ring_label": "FRAUD_RING",
+    "ring_score": 0.6667,
+    "n_nodes": 3,
+    "n_edges": 2,
+    "n_fraud_nodes": 1,
+    "fraud_density": 0.3333,
+    "total_flow": 1215826.1800000002,
+    "coordinator": "C1708248220",
+    "fraud_accounts": [
+      "C2009627965"
+    ],
+    "transaction_types": {
+      "CASH_OUT": 2
+    },
+    "avg_amount": 607913.09,
+    "drain_ratio": 1.0
+  }
+]
